@@ -1,11 +1,11 @@
 /* CSS Service */
 
-body {
+.body {
 
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 97vh;
     margin: 0;
     font-family: 'Inter', sans-serif;;
 }
@@ -40,6 +40,7 @@ P {
 }
 
 /* début css panier*/
+
 
 
 
@@ -90,7 +91,7 @@ P {
 .ajouter {
 
     background-color: #000;
-    color: #fff;
+    color: #D9D9D9;
     border-radius: 34px;
     padding: 8px;
     font-size: 20px;
@@ -99,10 +100,9 @@ P {
 
 .ajouter:hover {
 
-    background-color: #fff;
+    background-color: #D9D9D9;
     color: #000;
     border-radius: 34px;
-    border: 1px solid #000;
     padding: 8px;
     font-size: 20px;
     text-decoration: none;
